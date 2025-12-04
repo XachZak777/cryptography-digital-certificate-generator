@@ -1,0 +1,12 @@
+# No external dependencies required!
+# All cryptographic operations are implemented from scratch.
+# 
+# This project uses only Python standard library:
+# - socket (network communication)
+# - json (message serialization)
+# - base64 (encoding)
+# - os (random number generation, file operations)
+# - hashlib (SHA-256 for certificate signing)
+# - datetime (certificate validity periods)
+# - typing (type hints)
+# - random (prime number generation)
